@@ -1,0 +1,12 @@
+App Title: Flatmates Bill
+
+App Description: (inputs and outputs) An app that gets as input the amount of a bill
+ for a particular period and the days that each of the flatmates stayed in the 
+ house for that period and returns how much each flatmate has to play. It also 
+ generates a PDF report stating the names of the flatnmates, the period, and how
+ much each of them had to pay. 
+
+App Objectsi types (classes): (discovered by looking at the nouns within the description)
+    - noun : bill
+        - attribute : amount
+        - attribute : payment
